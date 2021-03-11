@@ -1,0 +1,16 @@
+	* ver 2021-03-03
+		- Adding QHafsa_CHECK_TEMPLATE for checking
+		- Adding Title Sheet to the Spreadsheet
+		- Adding Total GV - 112 Basmalah calculations to db Sheet. Thanks to brother Alex.
+	* ver 2021-02-03
+		- Adding other three (3) tables of calculations to the Spreadsheet (Initial Sheet, Un-initial Sheet, and LetterGV Sheet). 
+	
+	* ver 2021-01-25
+		- Fix cell BE27 and BE78 values, from 50 to 42;50 (Sheet LetterProcessing). Thanks to brother Alex.
+		
+	* ver 2021-01-24
+		- Fix formula got swapped in cell AY140 and cell AY141 (Sheet LetterProcessing). Thanks to brother Alex.
+		- Unhide all formula in QHafsa_WITH_FORMULA_XXXX-XX-XX.xlsm. This spreadsheet is using macro, and using intensive formulas, make sure you have a PC with high processor speed if you want to open this spreadsheet.
+	
+	* ver 2020-09-03
+		- Fix some typos and formula errors. Thanks to brother Alex. 
